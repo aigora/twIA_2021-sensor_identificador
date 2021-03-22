@@ -5,6 +5,7 @@
 ## Integrantes del equipo
 
 [Guillermo Rosales Pérez GuillermoRosale5.]
+[Manuel Sánchez Francés manusanchezf.]
 
 ## Objetivos del trabajo
 
