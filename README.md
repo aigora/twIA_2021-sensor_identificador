@@ -8,7 +8,7 @@
 [Manuel Sánchez Francés manusanchezf.]
 [Daniel van Reenen DanielvanReenen.]
 [Patricio Juan Peñalaver Carvajal Patriciopenalver.]
-
+[Jaime Muñoz Mejías.]
 
 ## Objetivos del trabajo
 
