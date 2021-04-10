@@ -7,6 +7,8 @@
 [Guillermo Rosales Pérez GuillermoRosale5.]
 [Manuel Sánchez Francés manusanchezf.]
 [Daniel van Reenen DanielvanReenen.]
+[Patricio Juan Peñalaver Carvajal Patriciopenalver.]
+
 
 ## Objetivos del trabajo
 
