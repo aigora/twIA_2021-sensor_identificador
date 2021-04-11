@@ -9,6 +9,7 @@
 [Daniel van Reenen DanielvanReenen.]
 [Patricio Juan Peñalaver Carvajal Patriciopenalver.]
 [Jaime Muñoz Mejías.]
+[Natalia Rodriguez Molina nataliarodriiguez]
 
 ## Objetivos del trabajo
 
