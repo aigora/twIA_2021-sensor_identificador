@@ -8,8 +8,8 @@
 [Manuel Sánchez Francés manusanchezf.]
 [Daniel van Reenen DanielvanReenen.]
 [Patricio Juan Peñalaver Carvajal Patriciopenalver.]
-[Jaime Muñoz Mejías.]
-[Natalia Rodriguez Molina nataliarodriiguez]
+[Jaime Muñoz Mejías jmunozm2.]
+[Natalia Rodriguez Molina nataliarodriiguez.]
 
 ## Objetivos del trabajo
 
