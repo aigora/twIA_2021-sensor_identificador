@@ -1,0 +1,93 @@
+#include<stdio.h>
+#include<stdlib.h>
+#include<string.h>
+#define DIM 12
+
+struct trabajadores {
+	char Nombre[50];
+	char Telefono[10];
+	char Sexo;
+	int Edad;
+	char UID[DIM];
+};
+
+struct trabajadores trabajador1 = {
+	"Daniel van Reenen Figueroa",
+	"669849718",
+	'H',
+	18,
+	"67 27 Fl 32"
+};
+
+struct trabajadores trabajador2 = {
+	"Guillermo Rosales Perez",
+	"609233579",
+	'H',
+	18,
+	"EA 15 4E 19"
+};
+
+struct trabajadores trabajador3 = {
+	"Patricio Juan Peñalver Castro",
+	"619865343",
+	'H',
+	18,
+
+};
+
+struct trabajadores trabajador4 = {
+	"Natalia Rodriguez Molina",
+	"608972000",
+	'M',
+	18,
+
+};
+
+struct trabajadores trabajador5 = {
+	"Manuel Sanchez Frances",
+	"618457988",
+	'H',
+	18,
+
+};
+
+struct trabajadores trabajador6 = {
+	"Jaime",
+	"636794671",
+	'H',
+	19,
+
+};
+
+int main()
+{
+	char Tarjeta[DIM];
+
+	if (strcmp(Tarjeta, trabajador1.UID) == 0) {
+		printf("Nombre: %s\nContacto: %s\nSexo: %c\nEdad: %d", trabajador1.Nombre, trabajador1.Telefono, trabajador1.Sexo, trabajador1.Edad);
+	}
+	
+	if (strcmp(Tarjeta, trabajador2.UID) == 0) {
+		printf("Nombre: %s\nContacto: %s\nSexo: %c\nEdad: %d", trabajador2.Nombre, trabajador2.Telefono, trabajador2.Sexo, trabajador2.Edad);
+	}
+
+	if (strcmp(Tarjeta, trabajador3.UID) == 0) {
+		printf("Nombre: %s\nContacto: %s\nSexo: %c\nEdad: %d", trabajador3.Nombre, trabajador3.Telefono, trabajador3.Sexo, trabajador3.Edad);
+	}
+
+	if (strcmp(Tarjeta, trabajador4.UID) == 0) {
+		printf("Nombre: %s\nContacto: %s\nSexo: %c\nEdad: %d", trabajador4.Nombre, trabajador4.Telefono, trabajador4.Sexo, trabajador4.Edad);
+	}
+
+	if (strcmp(Tarjeta, trabajador5.UID) == 0) {
+		printf("Nombre: %s\nContacto: %s\nSexo: %c\nEdad: %d", trabajador5.Nombre, trabajador5.Telefono, trabajador5.Sexo, trabajador5.Edad);
+	}
+
+	if (strcmp(Tarjeta, trabajador6.UID) == 0) {
+		printf("Nombre: %s\nContacto: %s\nSexo: %c\nEdad: %d", trabajador6.Nombre, trabajador6.Telefono, trabajador6.Sexo, trabajador6.Edad);
+	}
+	
+	else {
+		printf("No se ha detectado ninguna tarjeta registrada en el sistema");
+	}
+}
