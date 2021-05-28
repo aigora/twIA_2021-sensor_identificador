@@ -1,6 +1,6 @@
 # [SENSOR IDENTIFICADOR]
 
-[Un sistema de identificacion mediante temperatura e identificadores NFC para acceder a una sala a traves de una puerta electronica.]
+[Un sistema de control de acceso de usuarios y sanitario que es autónomo y requiere una identificación y temperatura adecuada para acceder a un centro privado.]
 
 ## Integrantes del equipo
 
