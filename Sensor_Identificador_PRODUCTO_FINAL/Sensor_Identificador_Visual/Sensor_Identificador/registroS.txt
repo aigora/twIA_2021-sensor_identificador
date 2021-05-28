@@ -1,0 +1,43 @@
+Registro de UID: 0A 38 56 19 temperatura: 36.70ºC a las 01:22:39 del 05/26/21. No se han detectado sintomas de COVID-19
+Registro de UID: 0A 38 56 19 temperatura: 37.90ºC a las 01:22:51 del 05/26/21. No se han detectado sintomas de COVID-19
+Registro de UID: 0A 38 56 19 temperatura: 38.00ºC a las 01:23:43 del 05/26/21. No se han detectado sintomas de COVID-19
+Registro de UID: 0A 38 56 19 temperatura: 41.60ºC a las 01:24:02 del 05/26/21. Acuda a un centro medico de inmediato
+Registro de UID: 0A 38 56 19 temperatura: 36.00ºC a las 11:44:57 del 05/26/21. No se han detectado sintomas de COVID-19
+Registro de UID: 0A 38 56 19 temperatura: 36.66ºC a las 11:46:07 del 05/26/21. No se han detectado sintomas de COVID-19
+Registro de UID: 0A 38 56 19 temperatura: 35.77ºC a las 11:46:27 del 05/26/21. No se han detectado sintomas de COVID-19
+Registro de UID: 0A 38 56 19 temperatura: 40.00ºC a las 11:46:38 del 05/26/21. Posibles Síntomas de COVID-19
+Registro de UID: 0A 38 56 19 temperatura: 37.80ºC a las 11:46:57 del 05/26/21. No se han detectado sintomas de COVID-19
+Registro de UID: 0A 38 56 19 temperatura: 35.78ºC a las 12:34:14 del 05/26/21. No se han detectado sintomas de COVID-19
+Registro de UID: 0A 38 56 19 temperatura: 0.00ºC a las 12:51:28 del 05/26/21. No se han detectado sintomas de COVID-19
+Registro de UID: 0A 38 56 19 temperatura: 0.00ºC a las 17:50:43 del 05/26/21. No se han detectado sintomas de COVID-19
+Registro de UID: 0A 38 56 19 temperatura: 34.47ºC a las 18:10:43 del 05/26/21. No se han detectado sintomas de COVID-19
+Registro de UID: 0A 38 56 19 temperatura: 0.00ºC a las 18:30:21 del 05/26/21. No se han detectado sintomas de COVID-19
+Registro de UID: 0A 38 56 19 temperatura: 34.55ºC a las 18:30:45 del 05/26/21. No se han detectado sintomas de COVID-19
+Registro de UID: 0A 38 56 19 temperatura: 35.22ºC a las 19:07:19 del 05/26/21. No se han detectado sintomas de COVID-19
+Registro de UID: 0A 38 56 19 temperatura: 0.00ºC a las 19:09:50 del 05/26/21. No se han detectado sintomas de COVID-19
+Registro de UID: 0A 38 56 19 temperatura: 0.00ºC a las 19:11:30 del 05/26/21. No se han detectado sintomas de COVID-19
+Registro de UID: 0A 38 56 19 temperatura: 36.09ºC a las 21:07:32 del 05/26/21. No se han detectado sintomas de COVID-19
+Registro de UID: 0A 38 56 19 temperatura: 0.00ºC a las 21:10:48 del 05/26/21. No se han detectado sintomas de COVID-19
+Registro de UID: 0A 38 56 19 temperatura: 0.00ºC a las 21:23:48 del 05/26/21. No se han detectado sintomas de COVID-19
+Registro de UID: 0A 38 56 19 temperatura: 0.00ºC a las 23:07:40 del 05/26/21. No se han detectado sintomas de COVID-19
+Registro de UID: 0A 38 56 19 temperatura: 43.13ºC a las 23:08:25 del 05/26/21. Posibles Síntomas de COVID-19
+Registro de UID: 0A 38 56 19 temperatura: 40.47ºC a las 23:08:48 del 05/26/21. Posibles Síntomas de COVID-19
+Registro de UID: 0A 38 56 19 temperatura: 0.00ºC a las 23:09:09 del 05/26/21. No se han detectado sintomas de COVID-19
+Registro de UID: 0A 38 56 19 temperatura: 0.00ºC a las 23:27:57 del 05/26/21. No se han detectado sintomas de COVID-19
+Registro de UID: 0A 38 56 19 temperatura: 42.53ºC a las 23:29:50 del 05/26/21. Posibles Síntomas de COVID-19
+Registro de UID: 0A 38 56 19 temperatura: 40.51ºC a las 23:30:12 del 05/26/21. Posibles Síntomas de COVID-19
+Registro de UID: 0A 38 56 19 temperatura: 0.00ºC a las 23:30:35 del 05/26/21. No se han detectado sintomas de COVID-19
+Registro de UID: 0A 38 56 19 temperatura: 41.55ºC a las 11:23:41 del 05/27/21. Posibles Síntomas de COVID-19
+Registro de UID: 0A 38 56 19 temperatura: 38.35ºC a las 11:24:01 del 05/27/21. Posibles Síntomas de COVID-19
+Registro de UID: 0A 38 56 19 temperatura: 0.00ºC a las 11:24:19 del 05/27/21. No se han detectado sintomas de COVID-19
+Registro de UID: 0A 38 56 19 temperatura: 0.00ºC a las 11:40:53 del 05/27/21. No se han detectado sintomas de COVID-19
+Registro de UID: 0A 38 56 19 temperatura: 40.07ºC a las 11:47:16 del 05/27/21. Posibles Síntomas de COVID-19
+Registro de UID: 0A 38 56 19 temperatura: 36.41ºC a las 11:47:33 del 05/27/21. No se han detectado sintomas de COVID-19
+Registro de UID: 0A 38 56 19 temperatura: 37.99ºC a las 17:39:32 del 05/27/21. No se han detectado sintomas de COVID-19
+Registro de UID: 0A 38 56 19 temperatura: 34.97ºC a las 18:40:43 del 05/27/21. No se han detectado sintomas de COVID-19
+Registro de UID: 0A 38 56 19 temperatura: 35.97ºC a las 18:44:43 del 05/27/21. No se han detectado sintomas de COVID-19
+Registro de UID: 0A 38 56 19 temperatura: 34.85ºC a las 18:45:36 del 05/27/21. No se han detectado sintomas de COVID-19
+Registro de UID: 0A 38 56 19 temperatura: 33.33ºC a las 15:06:31 del 05/28/21. No se han detectado sintomas de COVID-19
+Registro de UID: 0A 38 56 19 temperatura: 33.33ºC a las 15:07:56 del 05/28/21. No se han detectado sintomas de COVID-19
+Registro de UID: 0A 38 56 19 temperatura: 33.21ºC a las 15:09:28 del 05/28/21. No se han detectado sintomas de COVID-19
+Registro de UID: 0A 38 56 19 temperatura: 34.03ºC a las 15:21:07 del 05/28/21. No se han detectado sintomas de COVID-19
